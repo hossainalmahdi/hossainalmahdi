@@ -1,9 +1,3 @@
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/hossainalmahdi/count.svg" />
-</p>
-</div>
-
 ## 🌐 Contacts:
 [![Gmail](https://img.shields.io/badge/%20-%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:hame.mahadi@gmail.com?subject=From%20GitHub&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hossainalmahdi)
@@ -53,3 +47,9 @@
       <img  width=400 src="https://github-readme-stats.vercel.app/api?username=hossainalmahdi&show_icons=true&theme=dark&border_color=61dafb&hide_border=false&include_all_commits=true&count_private=true" />
       <!-- <img  width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainalmahdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br> -->
 </p>
+
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/hossainalmahdi/count.svg" />
+</p>
+</div>
