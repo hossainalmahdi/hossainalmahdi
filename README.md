@@ -50,6 +50,8 @@
   <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainalmahdi&theme=dark" />
 </div>
 
+<br>
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=hossainalmahdi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/hossainalmahdi/hossainalmahdi/output/github-contribution-grid-snake-dark.svg)
 <p align="center"> 
