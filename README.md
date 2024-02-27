@@ -42,12 +42,15 @@
 <br><br><br>
 
 # 📊Stats:
-<p align=center>
-      <img  width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=hossainalmahdi&theme=dark&border=61dafb&hide_border=false&include_all_commits=true&count_private=true" />
-      <img  width=400 src="https://github-readme-stats.vercel.app/api?username=hossainalmahdi&show_icons=true&theme=dark&border_color=61dafb&hide_border=false&include_all_commits=true&count_private=true" />
-      <!-- <img  width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainalmahdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br> -->
-</p>
 
+<div>
+  <img width="440px" src="https://github-readme-stats.vercel.app/api?username=hossainalmahdi&show_icons=true&theme=dark">
+  <img width="385px" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hossainalmahdi&layout=compact&theme=onedark" />
+  <img width="440px" src="https://github-readme-activity-graph.vercel.app/graph?username=hossainalmahdi&theme=github">
+  <img width="385px" src="https://github-readme-streak-stats.herokuapp.com/?user=hossainalmahdi&theme=dark" />
+</div>
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=hossainalmahdi&theme=onedark&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 ![Snake animation](https://raw.githubusercontent.com/hossainalmahdi/hossainalmahdi/output/github-contribution-grid-snake-dark.svg)
 <p align="center"> 
   Visitors count<br>
