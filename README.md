@@ -48,6 +48,7 @@
       <!-- <img  width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossainalmahdi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" /> <br> -->
 </p>
 
+![Snake animation](https://raw.githubusercontent.com/hossainalmahdi/hossainalmahdi/output/github-contribution-grid-snake-dark.svg)
 <p align="center"> 
   Visitors count<br>
   <img src="https://profile-counter.glitch.me/hossainalmahdi/count.svg" />
